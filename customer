@@ -1,0 +1,13 @@
+<Customer>
+	
+	<Customer_FName>Anita</Customer_FName>
+	<Customer_LName>Smith</Customer_LName>
+		
+</Customer>
+
+<Customer>
+	
+	<Customer_FName>Sharon</Customer_FName>
+	<Customer_LName>Jones</Customer_LName>
+		
+</Customer>
