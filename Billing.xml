@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Billing>
+	<Billing_Credit_Trans>
+		<Customer_Fname>Bob</Customer_Fname>
+		<Customer_Lname>Smith</Customer_Lname>
+		<Address>83 Spooner St.</Address>
+		<Billing_Transaction_id>1325854754</Billing_Transaction_id>
+	</Billing_Credit_Trans>
+	<Billing_Cash_Trans>
+		<Customer_Fname>Boba</Customer_Fname>
+		<Customer_Lname>Fett</Customer_Lname>
+		<Address>856 Hancock way</Address>
+		<Billing_Transaction_id>55648453</Billing_Transaction_id>
+	</Billing_Cash_Trans>
+<Billing>
+	
