@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Parts>
+<Parts_Id>498486</Parts_Id>
+<Parts_Brand>Michelin</Parts_Brand>
+<Parts_Cost_HoleCost>200.00</Parts_Cost_HoleCost>
+<Parts_Cost_Ret>140.00</Parts_Cost_Ret>
+<Parts_Qty_InStock>20</Parts_Qty_InStock>
+</Parts>
+<Parts>
+<Parts_Id>498128</Parts_Id>
+<Parts_Brand>Michelin</Parts_Brand>
+<Parts_Cost_HoleCost>180.00</Parts_Cost_HoleCost>
+<Parts_Cost_Ret>130.00</Parts_Cost_Ret>
+<Parts_Qty_InStock>20</Parts_Qty_InStock>
+</Parts>
