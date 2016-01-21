@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Labor>
+	<Labor_Serid>1</Labor_Serid>
+		<Labor_desc>Tire Rotation</Labor_desc>
+			<Labor_cost>$30</Labor_cost>
+			<Parts_id>n/a</Parts_id>
+	<Labor_Serid>2</Labor_Serid>
+		<Labor_desc>Tire Install Mount and Balance</Labor_desc>
+			<Labor_cost>$15 Per Side</Labor_cost>
+			<Parts_id>Weights</Parts_id>
+</Labor>
