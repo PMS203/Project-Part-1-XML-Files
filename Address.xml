@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<Address>
+	<Address>123 A street</Address>
+	<Address_St>NV</Address_St>
+	<Address_City>Las Vegas</Address_City>
+	<Address_Zip>89147</Address_Zip>
+</Address>
+<Address>
+	<Address>564 Jeepers Ave.</Address>
+	<Address_St>NV</Address_St>
+	<Address_City>Las Vegas</Address_City>
+	<Address_Zip>89144</Address_Zip>
+</Address>
