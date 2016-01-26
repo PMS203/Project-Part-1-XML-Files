@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<html>
+    <head>
+        <META http-equiv="Content-Type" content="text/html;charset=utf-8"</META>
+        <title>Maya Orend Iyce Kreme Shoppe</title>
+        <H1>Maya Orend Iyce Kreme Shoppe</H1>
+    </head>
+    <body>
+        <employee>
+            <employeeKey></employeeKey>
+            <employee_no>437863</employee_no>
+            <employeeName>Aurora Hynes</employeeName>
+            <WarehouseKey>CO</WarehouseKey>
+        </employee>
+        <employee>
+            <employeeKey></employeeKey>
+            <employee_no>652784</employee_no>
+            <employeeName>Courtney McFarlane</employeeName>
+            <WarehouseKey>TN</WarehouseKey>
+        </employee>
+        <Warehouse>
+            <WarehouseKey></WarehouseKey>
+            <Warehouse_no>4862</Warehouse_no>
+            <WarehouseLocation>CO</WarehouseLocation>
+            <IngredientsKey></IngredientsKey>
+        </Warehouse>
+        <Warehouse>
+            <WarehouseKey></WarehouseKey>
+            <Warehouse_no>1638</Warehouse_no>
+            <WarehouseLocation>TN</WarehouseLocation>
+            <IngredientsKey></IngredientsKey>
+        </Warehouse>
+        <LocalInventory>
+            <InventoryKey></InventoryKey>
+            <localIngredient>sugar</localIngredient>
+            <localWarehouse>TN</localWarehouse>
+            <WarehouseKey></WarehouseKey>
+        </LocalInventory>
+        <LocalInventory>
+            <InventoryKey></InventoryKey>
+            <localIngredient>milk</localIngredient>
+            <localWarehouse>CO</localWarehouse>
+            <WArehouseKey></WArehouseKey>
+        </LocalInventory>
+        <Customer>
+            <CustomerKey></CustomerKey>
+            <CustomerId>13281</CustomerId>
+            <CustomerPay>20.99</CustomerPay>
+            <CustAddress>1280 Main St Colorado City CO 61298</CustAddress>
+            <FOMMember>yes</FOMMember>
+            <SubExpiration>02-28-2016</SubExpiration>
+            <TransactionKey></TransactionKey>
+        </Customer>
+        <Customer>
+            <CustomerKey></CustomerKey>
+            <CustomerId>41896</CustomerId>
+            <CustomerPay>18.96</CustomerPay>
+            <CustAddress>3200 Craig Rapids Tennessee 21890</CustAddress>
+            <FOMMember>NO</FOMMember>
+            <SubExpiration>null</SubExpiration>
+            <TransactionKey></TransactionKey>
+        </Customer>
+        <FlavorOfTheMonth>
+            <FOMKey></FOMKey>
+            <FOMName>double Chocolate Brownie</FOMName>
+            <FOMLast>March</FOMLast>
+            <FlavorKey></FlavorKey>
+        </FlavorOfTheMonth>
+        <FlavorOfTheMonth>
+            <FOMKey></FOMKey>
+            <FOMName>Banana Split</FOMName>
+            <FOMLast>August</FOMLast>
+            <FlavorKey></FlavorKey>
+        </FlavorOfTheMonth>
+        <Ingredients>
+            <IngredientsKey></IngredientsKey>
+            <IngredName>pecans</IngredName>
+            <IngredInStock>yes</IngredInStock>
+            <IngredLimit>yes</IngredLimit>
+            <FlavorsKey></FlavorsKey>
+            <InventoryKey></InventoryKey>
+        </Ingredients>
+        <Ingrdients>
+            <IngredientsKey></IngredientsKey>
+            <IngredName>Chocolate Syrup</IngredName>
+            <IngredInStock>yes</IngredInStock>
+            <IngredLimit>no</IngredLimit>
+            <FlavorsKey></FlavorsKey>
+            <InventoryKey></InventoryKey>
+        </Ingrdients>
+        <Flavors>
+            <FlavorsKey></FlavorKey>
+            <FlavorName>banana split</FlavorName>
+            <Flavor_InStock>yes</Flavor_InStock>
+        </Flavors>
+        <Flavors>
+            <FlavorsKey></FlavorsKey>
+            <FlavorName>double chocolate brownie</FlavorName>
+            <Flavor_InStock>yes</Flavor_InStock>
+        </Flavors>
+        <Transaction>
+            <TransactionKey></TransactionKey>
+            <FlavorOrder>banana split</FlavorOrder>
+            <WarehouseShipped>yes</WarehouseShipped>
+            <CustomerDelivered>no</CustomerDelivered>
+            <FlavorsKey></FlavorsKey>
+        </Transaction>
+        <Transaction>
+            <TransactionKey></TransactionKey>
+            <FlavorOrder>Chocolate</FlavorOrder>
+            <WarehouseShipped>yes</WarehouseShipped>
+            <CustomerDelivered>yes</CustomerDelivered>
+            <FlavorsKey></FlavorsKey>
+        </Transaction>
+    </body>
+</html>
